@@ -34,7 +34,7 @@ Neste módulo vamos focar no ggplot2, uma pacote (biblioteca) para R que cria vi
 | <div style="width:50px;text-align:center">Data</div> | <div style="width:250px;text-align:left">Tópico</div> | <div style="width:80px;text-align:center">Assíncrona</div> | <div style="width:80px;text-align:center">Síncrona</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Duração</div> |
 |:-------:|:---------------------|:-------:|:-----------:|:--------:|:------:|
 | 21/08  | Boas vindas | | | | 19:30 - 19:40 | 
-  | 21/08  | Introdução - the whole game 👾 | <span style='color: gray;'><i class='fab fa-youtube fa-lg'></i></span> | <span style='color: gray;'><i class='fas fa-file-video fa-lg'></i></span>  | [<span style='color: gray;'><i class='fas fa-desktop fa-lg'></i></span>](rbasic.netlify.app/slides/01-whole-game/01-whole-game.html) | 19:40 - 09:45 | 
+  | 21/08  | Introdução - the whole game 👾 | <span style='color: gray;'><i class='fab fa-youtube fa-lg'></i></span> | <span style='color: gray;'><i class='fas fa-file-video fa-lg'></i></span>  | [<span style='color: gray;'><i class='fas fa-desktop fa-lg'></i></span>](/slides/01-whole-game/01-whole-game.html) | 19:40 - 09:45 | 
 | 21/08  | Coffee break ☕ | | | | 09:45 - 10:00 | 
 | 21/08  | Visualize os dados 📊 | <span style='color: gray;'><i class='fab fa-youtube fa-lg'></i></span> |  | <span style='color: gray;'><i class='fas fa-desktop fa-lg'></i></span> | 10:00 - 10:50 | 
 | 21/08  | Code Along | | | | 10:50 - 11:00 |
